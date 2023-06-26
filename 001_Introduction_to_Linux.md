@@ -45,6 +45,10 @@
 
    - This command is used to combine file and create a new file with it
 
+5. cat -n
+
+   - This command will display the file with line number
+
 ## Deleting, Moving and Renaming Files
 
 1. rm test.txt
