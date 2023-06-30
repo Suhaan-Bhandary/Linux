@@ -4,6 +4,7 @@
     "adduser",
     "deluser",
     "harshini",
+    "newgrp",
     "printenv",
     "userdel",
     "usermod",
