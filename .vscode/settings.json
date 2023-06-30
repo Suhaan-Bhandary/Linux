@@ -1,4 +1,12 @@
 {
   "editor.formatOnSave": true,
-  "cSpell.words": ["printenv", "xtype"]
+  "cSpell.words": [
+    "adduser",
+    "deluser",
+    "harshini",
+    "printenv",
+    "userdel",
+    "usermod",
+    "xtype"
+  ]
 }
