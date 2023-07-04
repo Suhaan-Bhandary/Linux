@@ -1,0 +1,10 @@
+total 32
+-rw-rw-r-- 1 suhaan suhaan 2689 Jun 26 18:26 001_Introduction_to_Linux.md
+-rw-rw-r-- 1 suhaan suhaan 1904 Jun 27 15:07 002_Linux_Users.md
+-rw-rw-r-- 1 suhaan suhaan 1671 Jun 30 22:26 003_File_Security.md
+-rw-rw-r-- 1 suhaan suhaan  415 Jul  4 18:13 004_vi_editor.md
+-rw-rw-r-- 1 suhaan suhaan 1382 Jul  4 20:19 005_Environment_Variable.md
+-rw-rw-r-- 1 suhaan suhaan   82 Jul  4 20:28 006_IO_Redirection.md
+-rw-rw-r-- 1 suhaan suhaan    0 Jul  4 20:29 listing.txt
+-rw-rw-r-- 1 suhaan suhaan 2855 Jun 26 19:46 Recap_Session.md
+-rwxrw---- 1 suhaan suhaan   79 Jul  4 18:32 trial.txt
