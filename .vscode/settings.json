@@ -6,6 +6,7 @@
     "harshini",
     "newgrp",
     "printenv",
+    "renice",
     "userdel",
     "usermod",
     "xtype"
